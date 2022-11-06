@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/87385775/188919408-dba82da5-9fbd-4622-
 
 ![2](https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif)
 
- ![1](https://media-exp1.licdn.com/dms/image/C4D22AQGzebpILsqeaA/feedshare-shrink_800/0/1630224419505?e=1665619200&v=beta&t=9i9J0xqxvLn6Mk5RnPHIk7gqZtvxEGlHFH1teQwVS10)   ![3](https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif)  
+  ![3](https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif)  
 
 
 
