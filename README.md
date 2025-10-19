@@ -2,5 +2,3 @@
 Shall we begin to code?
 
 ![2](https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif)
-
-  ![3](https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif)  
