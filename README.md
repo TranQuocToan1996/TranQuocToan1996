@@ -3,11 +3,7 @@ Shall we begin to code?
 
 ### 💻 Developer • Learning • Building
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuocToan1996&show_icons=true&hide_border=true&count_private=true)
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=TranQuocToan1996&hide_border=true)
 
 ## 🧭 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuocToan1996&layout=compact&hide_border=true)
