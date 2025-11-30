@@ -1,4 +1,4 @@
-### Hi folks 👋. I'm Tran Quoc Toan (Dom). I'm a chemical engineer who loves programming. Currently working as Golang dev!
+### Hi folks 👋. I'm Tran Quoc Toan (Dom). I loves programming. Currently working as Golang dev!
 Shall we begin to code?
 
 ### 💻 Developer • Learning • Building
