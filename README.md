@@ -4,8 +4,9 @@ Shall we begin to code?
 ### 💻 Developer • Learning • Building
 
 
-## 📄 Resume
-[![Resume](https://drama-ton-that-vu.s3.us-east-1.amazonaws.com/Tran_Quoc_Toan__Software_Solution_Engineer_CV/Tra%CC%82%CC%80n+Quo%CC%82%CC%81c+Toa%CC%89n_SolutionSoftwareEngineer.docx.pdf)
+<a href="https://drama-ton-that-vu.s3.us-east-1.amazonaws.com/Tran_Quoc_Toan__Software_Solution_Engineer_CV/Tra%CC%82%CC%80n+Quo%CC%82%CC%81c+Toa%CC%89n_SolutionSoftwareEngineer.docx.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View-CV-blue?style=for-the-badge" />
+</a>
 
 ## 🚀 Profile Summary Card
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranQuocToan1996&theme=default)
